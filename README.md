@@ -51,10 +51,8 @@ Follow these steps to run Perfumy on your local computer.
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/suriyavr/Perfume.git
 ```
-
-Replace `YOUR_GITHUB_REPOSITORY_URL` with your actual GitHub repository URL.
 
 ### 2. Open the project folder
 
